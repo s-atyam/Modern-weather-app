@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Blue Sky With Numerous Clouds</caption>
+  <note>A sky of vibrant blue filled with an array of fluffy, billowing clouds creating a dynamic and ever-changing scene.</note>
+  <place/>
+  <categories>
+    <category value="blue"/>
+    <category value="sky"/>
+    <category value="clouds"/>
+    <category value="fluffy"/>
+    <category value="billowing"/>
+    <category value="dynamic"/>
+    <category value="weather"/>
+    <category value="atmosphere"/>
+    <category value="daytime"/>
+    <category value="formation"/>
+    <category value="cumulus"/>
+    <category value="meteorology"/>
+    <category value="beauty"/>
+    <category value="day"/>
+    <category value="view"/>
+    <category value="above"/>
+    <category value="nature"/>
+    <category value="floating"/>
+    <category value="white"/>
+    <category value="environment"/>
+    <category value="meteorological"/>
+    <category value="outdoors"/>
+    <category value="horizon"/>
+    <category value="climate"/>
+    <category value="cumulonimbus"/>
+  </categories>
+</comment>
